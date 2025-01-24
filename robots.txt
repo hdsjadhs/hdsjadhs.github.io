@@ -1,17 +1,17 @@
 User-agent: *
 Disallow: /login
-Sitemap:hdsjadhs.github.ioEJW/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioXQX/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioCBM/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioUWG/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioWPI/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioTOH/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioVAF/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioEMY/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioKDV/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioYLH/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioQOL/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioXGN/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioECA/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioTPX/sitemap_index.txt
-Sitemap:hdsjadhs.github.ioRED/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/OZT/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/FST/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/BZG/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/NRE/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/XPK/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/HLE/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/WOK/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/UKU/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/KRI/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/NYD/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/MZB/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/PKV/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/BVO/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/OMK/sitemap_index.txt
+Sitemap:https://hdsjadhs.github.io/NDA/sitemap_index.txt
